@@ -6,10 +6,13 @@ import avatarCharacterAgentChatbot from '../assets/article-heroes/avatar-charact
 import deepgramVoiceAgentAvatar from '../assets/article-heroes/deepgram-voice-agent-avatar.png';
 import elevenlabsAiAgentAvatar from '../assets/article-heroes/elevenlabs-ai-agent-avatar.png';
 import geminiLiveAvatar from '../assets/article-heroes/gemini-live-avatar.png';
+import howToCreateInteractiveAiRolePlay from '../assets/article-heroes/how-to-create-interactive-ai-role-play-without-coding.png';
 import httpVsWebrtcAiAvatars from '../assets/article-heroes/http-vs-webrtc-ai-avatars.png';
 import interactiveAiAvatarCost from '../assets/article-heroes/interactive-ai-avatar-cost.png';
 import interactiveAiAvatarPlatforms2026 from '../assets/article-heroes/interactive-ai-avatar-platforms-2026.png';
 import liformaLiveRelayMotion from '../assets/article-heroes/liforma-live-relay-motion.png';
+import liformaVsDid from '../assets/article-heroes/liforma-vs-did.png';
+import liformaVsTavus from '../assets/article-heroes/liforma-vs-tavus.png';
 import livekitAgentAvatar from '../assets/article-heroes/livekit-agent-avatar.png';
 import multiCharacterAiConversations from '../assets/article-heroes/multi-character-ai-conversations.png';
 import openaiRealtimeAvatar from '../assets/article-heroes/openai-realtime-avatar.png';
@@ -26,10 +29,13 @@ const heroImages = {
   'deepgram-voice-agent-avatar': deepgramVoiceAgentAvatar,
   'elevenlabs-ai-agent-avatar': elevenlabsAiAgentAvatar,
   'gemini-live-avatar': geminiLiveAvatar,
+  'how-to-create-interactive-ai-role-play-without-coding': howToCreateInteractiveAiRolePlay,
   'http-vs-webrtc-ai-avatars': httpVsWebrtcAiAvatars,
   'interactive-ai-avatar-cost': interactiveAiAvatarCost,
   'interactive-ai-avatar-platforms-2026': interactiveAiAvatarPlatforms2026,
   'liforma-live-relay-motion': liformaLiveRelayMotion,
+  'liforma-vs-did': liformaVsDid,
+  'liforma-vs-tavus': liformaVsTavus,
   'livekit-agent-avatar': livekitAgentAvatar,
   'multi-character-ai-conversations': multiCharacterAiConversations,
   'openai-realtime-avatar': openaiRealtimeAvatar,
